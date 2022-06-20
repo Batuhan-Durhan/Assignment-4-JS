@@ -17,6 +17,9 @@
  * This function calculates the pizzas total price
  */
 
+/**
+ *JSDoc
+ */
  function buttonClicked() {
   var pizzaPrice = 0
   var toppingPrice = 0
